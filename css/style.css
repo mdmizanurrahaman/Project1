@@ -1,0 +1,75 @@
+body{
+	margin: 0px;
+}
+
+
+img{
+	max-width: 100%;
+	padding-top: 50px;
+
+}
+
+.amader1{ 
+     color:#2576da; }
+.amader2{ 
+     color:red; }
+.amader3{ 
+     color:orange; }
+.amader4{ 
+     color:#2576da; }
+.amader5{ 
+     color:#2576da; }
+.amader6{ 
+     color:red; }
+
+
+
+.container{
+	width: 1200px;
+	margin: 0 auto;
+	
+
+}
+
+.bgcolor{
+	
+}
+
+h1{
+	font-size: 70px;
+	text-align: center;
+	color:#333333;
+	margin: auto;
+	padding: 60px;
+}
+
+.color1{
+    color:#2576da;}
+.color2{
+    color:red;}
+.color3{
+    color:seagreen;}
+.color4{
+    color:orange;}
+
+
+
+
+ h2{
+ 	font-size: 40px;
+ }   
+
+
+p{
+	margin: 0
+	font-size:20px;
+	line-height: 1.6;
+	text-align: justify;
+}
+
+h3{
+	background-color: green;
+	text-align: center;
+	font-size: 60px;
+	padding: 70px;
+}
